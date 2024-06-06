@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://m.media-amazon.com/images/I/61dRoDRubtL._AC_UY218_.jpg",
+    "review": "A captivating tale of love and loss set against the backdrop of the roaring 1920s. Fitzgerald's prose dazzles in this timeless classic, exploring the emptiness of the American Dream with tragic beauty.",
+    "totalPages": 218,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance", "Drama"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UY218_.jpg",
+    "review": "A haunting vision of a totalitarian future where individuality is suppressed and truth is manipulated. Orwell's chilling narrative serves as a stark warning against the dangers of authoritarianism and surveillance.",
+    "totalPages": 328,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political", "Science Fiction"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 3,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UY218_.jpg",
+    "review": "A poignant exploration of racial injustice and moral growth in the Deep South. Lee's masterful storytelling and unforgettable characters make this a timeless classic, resonating with readers of all ages.",
+    "totalPages": 281,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Classic", "Legal", "Coming-of-age"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://m.media-amazon.com/images/I/61Ng-W9EhBL._AC_UY218_.jpg",
+    "review": "An enchanting journey through Middle-earth filled with adventure, friendship, and courage. Tolkien's rich imagination and captivating storytelling make this a beloved classic for readers of all ages.",
+    "totalPages": 310,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Quest", "Epic"],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://m.media-amazon.com/images/I/81NLDvyAHrL._AC_UY218_.jpg",
+    "review": "A delightful comedy of manners that explores themes of love, class, and societal expectations. Austen's sharp wit and keen observation of human nature make this a timeless masterpiece.",
+    "totalPages": 279,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Classic", "Romance", "Regency"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://m.media-amazon.com/images/I/71nXPGovoTL._AC_UY218_.jpg",
+    "review": "A poignant portrayal of adolescent angst and disillusionment. Salinger's iconic protagonist, Holden Caulfield, struggles with authenticity and connection in a world he sees as phony.",
+    "totalPages": 277,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": ["Coming-of-age", "Literary Fiction"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  }
+]
